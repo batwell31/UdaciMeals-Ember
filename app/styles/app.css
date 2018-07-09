@@ -1,0 +1,11 @@
+img {
+    width: 350px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 35px;
+    text-align: center;
+    font-size: 15px;
+}
